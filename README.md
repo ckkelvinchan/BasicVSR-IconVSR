@@ -1,6 +1,7 @@
 # BasicVSR-IconVSR (CVPR2021)
 
-Coming soon, stay tuned!
+## Update 12/4/2021
+BasicVSR is now avaialble in [MMEditing](https://github.com/open-mmlab/mmediting/blob/master/mmedit/models/backbones/sr_backbones/basicvsr_net.py)!
 
 ## Update 8/4/2021
 BasicVSR is finally out! The model can be found [here](https://github.com/open-mmlab/mmediting/pull/245) (temporally, PR in progress). The pretrained weights and IconVSR is coming!
