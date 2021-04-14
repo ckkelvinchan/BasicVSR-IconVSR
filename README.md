@@ -1,5 +1,8 @@
 # BasicVSR-IconVSR (CVPR2021)
 
+## Update 14/4/2021
+We upload the MATLAB script for BD degradation for you to use :)
+
 ## Update 12/4/2021
 BasicVSR is now avaialble in [MMEditing](https://github.com/open-mmlab/mmediting/blob/master/mmedit/models/backbones/sr_backbones/basicvsr_net.py)!
 
