@@ -1,5 +1,8 @@
 # BasicVSR-IconVSR (CVPR2021)
 
+## Update 17/4/2021
+The pre-trained BasicVSR can be found [here](https://github.com/open-mmlab/mmediting/tree/master/configs/restorers/basicvsr). We are now retraining IconVSR.
+
 ## Update 14/4/2021
 We upload the MATLAB script for BD degradation for you to use :)
 
