@@ -1,5 +1,8 @@
 # BasicVSR-IconVSR (CVPR2021)
 
+## Update 26/4/2021
+Both BasicVSR and IconVSR have been released in [MMEditing](https://github.com/open-mmlab/mmediting).
+
 ## Update 17/4/2021
 The pre-trained BasicVSR can be found [here](https://github.com/open-mmlab/mmediting/tree/master/configs/restorers/basicvsr). We are now retraining IconVSR.
 
