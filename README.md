@@ -1,5 +1,17 @@
 # BasicVSR-IconVSR (CVPR2021)
 
+Project page: https://ckkelvinchan.github.io/projects/BasicVSR/
+
+## Citations
+```
+@InProceedings{chan2021basicvsr,
+  author = {Chan, Kelvin C.K. and Wang, Xintao and Yu, Ke and Dong, Chao and Loy, Chen Change},
+  title = {BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  year = {2021}
+}
+```
+
 ## Update 26/4/2021
 Both BasicVSR and IconVSR have been released in [MMEditing](https://github.com/open-mmlab/mmediting).
 
